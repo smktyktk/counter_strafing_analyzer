@@ -1,0 +1,4 @@
+left_key: 'z'
+right_key: 'c'
+window_title: 'Key Timing Output'
+window_size: '500x400'
