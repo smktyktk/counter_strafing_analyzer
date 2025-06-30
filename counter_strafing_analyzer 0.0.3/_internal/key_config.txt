@@ -1,0 +1,4 @@
+left_key: 'a'
+right_key: 'd'
+window_title: 'Key Timing Output'
+window_size: '500x400'
